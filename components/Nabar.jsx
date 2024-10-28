@@ -5,7 +5,7 @@ export default function Nabar() {
   return (
     <nav>
      <ul>
-        <div className="logo">
+        <div className='logo'>
             <h1>Logo</h1>
         </div>
         <div className="link-container">
